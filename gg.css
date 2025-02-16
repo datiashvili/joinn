@@ -1,0 +1,86 @@
+body {
+    background-color: hsl(204, 43%, 93%);
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    flex-direction: column;
+}
+
+.cont {
+    background-color: white;
+    padding: 17px;
+    width: 320px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.hh1 {
+    color: hsl(179, 62%, 43%);
+}
+
+.hh3 {
+    color: hsl(71, 73%, 54%);
+}
+
+.pp1 {
+    line-height: 27px;
+    color: hsl(217, 12%, 41%);
+
+}
+
+.main1 {
+    background-color: hsl(179, 62%, 45%);
+    padding: 17px;
+    width: 320px;
+}
+
+
+.hh2 {
+    color: white;
+
+}
+
+.hh4 {
+    color: white;
+}
+
+span {
+    color: rgba(255, 255, 255, 0.637);
+    font-size: medium;
+    font-weight: 300;
+}
+
+button {
+    width: 300px;
+    margin: auto;
+    display: block;
+    height: 40px;
+    background-color: hsl(71, 73%, 54%);
+    border: 0;
+    font-size: medium;
+    font-weight: 400;
+    border-radius: 5px;
+    color: white;
+}
+
+.pp2 {
+    color: white;
+}
+
+.main2 {
+    background-color: hsl(179, 62%, 59%);
+    padding: 17px;
+    width: 320px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.hh5 {
+    color: white;
+}
+
+.pp3 {
+    color: white;
+}
